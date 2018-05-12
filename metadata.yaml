@@ -1,0 +1,36 @@
+_repo: The-First-Little-Pet-Book-with-Ten-Short-Stories-in-Words-of-Three-and-Four-Letters_31483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fanny, Aunt
+    aliases:
+    - Barrow, Frances Elizabeth
+    - Mease, Frances Elizabeth
+    - Aunt Fanny
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '33364'
+    url: http://www.gutenberg.org/2009/agents/33364
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+tableOfContents: Preface -- The bad old ape -- Mop, the pet cat, a poem -- Sam, the
+  bad boy -- Ben and Sue, and the see-saw -- The hen and fox, a poem -- Ben and Bob
+  -- The old gray rat -- Poor Will, who was shot in the war -- Ann, the good girl
+  -- Joe, who did not mind.
+title: The First Little Pet Book with Ten Short Stories in Words of Three and Four
+  Letters
+url: http://www.gutenberg.org/ebooks/31483
